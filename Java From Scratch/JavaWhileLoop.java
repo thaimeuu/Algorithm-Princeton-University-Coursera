@@ -1,3 +1,5 @@
+// Lesson 9: While Loop
+
 public class JavaWhileLoop {
     public static void main(String[] args) {
         System.out.println("Lesson 9: While Loop");
