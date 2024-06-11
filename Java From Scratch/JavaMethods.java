@@ -1,5 +1,8 @@
 // Lesson 12: Methods/Functions
 public class JavaMethods {
+    // Used for lesson 13, don't mind this
+    String greet = "Hello this is JavaMethods class from lesson 12";
+    
     // Non-parameter
     public static void sayHello() {
         System.out.println("Hello World");
